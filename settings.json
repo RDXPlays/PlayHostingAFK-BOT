@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Sensi.play.hosting",
-    "port": ,
+    "port": 31526,
     "version": "",
     "try-creative": false
   },
